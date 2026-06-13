@@ -1,0 +1,6 @@
+{
+  "name": "Earcon Sono",
+  "description": "An accessibility application for hearing-impaired users, utilizing real-time visual sound analysis, custom sensory haptic patterns, and Gemini AI environmental sound classification.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
